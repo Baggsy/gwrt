@@ -1,8 +1,7 @@
-# My Audio Project
+# Guinness World Record Timer
 
-This project reads audio input from a USB audio mixer and saves it as a WAV file.
 
 ## Installation
 
 ```bash
-pip install git+https://github.com/yourusername/my_audio_project.git
+pip install git+https://github.com/Baggsy/gwrt.git
