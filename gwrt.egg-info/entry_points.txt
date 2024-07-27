@@ -1,0 +1,2 @@
+[console_scripts]
+gwrt = gwrt.cli:main
